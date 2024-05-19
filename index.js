@@ -15,5 +15,5 @@ document.getElementById('bmiForm').addEventListener('submit', function(event) {
     bmi = bmi.toFixed(2);
 
     //Display result
-    document.getElementById('result').textContent = `Your BMI is ${bmi}.`;
+    document.getElementById('result').textContent = `Your BMI is ${bmi}`;
 });
