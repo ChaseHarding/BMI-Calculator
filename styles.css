@@ -7,3 +7,14 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+.container {
+    background: #b3c6d7;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
